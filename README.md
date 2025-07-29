@@ -5,4 +5,4 @@
   3. The routing agents are completely understood and can be implemented anytime, there are already examples to the implementation of it.
 
 **Some files are not given in this repository**:
-  1. Files such as "credentials.json" and "token.json" are not given in this repository for security purposes.
+  1. Files such as "credentials.json" and "token.json" are not given in this repository for security purposes. these files are required to authenticate a third-party-app to let it access an account ex. Drive and Gmail.
